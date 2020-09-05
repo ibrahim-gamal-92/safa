@@ -1,0 +1,1153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9b62716a-341b-4efa-8707-b40bd71f01f4" name="Default" comment="">
+      <change beforePath="/var/www/html/maozoon/.idea/workspace.xml" afterPath="/var/www/html/maozoon/.idea/workspace.xml" />
+      <change beforePath="/var/www/html/maozoon/src/Controllers/Pages/Error.php" afterPath="/var/www/html/maozoon/src/Controllers/Pages/Error.php" />
+      <change beforePath="/var/www/html/maozoon/src/Views/adminCategories.html.twig" afterPath="/var/www/html/maozoon/src/Views/adminCategories.html.twig" />
+      <change beforePath="/var/www/html/maozoon/src/Views/layout/scripts.html.twig" afterPath="/var/www/html/maozoon/src/Views/layout/scripts.html.twig" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="OrderController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/OrderController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="14" column="11" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="14" selection-end-column="11" />
+              <folding>
+                <element signature="e#40#54#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CartController.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/CartController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="630">
+              <caret line="35" column="21" lean-forward="false" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
+              <folding>
+                <element signature="e#40#53#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>time</find>
+      <find>$</find>
+      <find>timestamps</find>
+      <find>$produc</find>
+      <find>perPage</find>
+      <find>parent</find>
+      <find>pa</find>
+      <find>oops, You don't have permission to view this page</find>
+      <find>404</find>
+      <find>ng-rep</find>
+      <find>angular</find>
+      <find>&lt;form</find>
+    </findStrings>
+    <dirStrings>
+      <dir>/var/www/html/maozoon/src/Views/layout</dir>
+      <dir>/var/www/html/maozoon/src/Controllers/Pages</dir>
+      <dir>/var/www/html/maozoon</dir>
+      <dir>/var/www/html/maozoon/src</dir>
+      <dir>/var/www/html/maozoon/src/Views</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="/var/www/html/maozoon" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///Dummy.txt" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/database/migrations/2020_09_02_003714_create_orders_table.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2020_09_02_003523_create_customers_table.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2020_09_02_003728_create_items_table.php" />
+        <option value="$PROJECT_DIR$/.env" />
+        <option value="$PROJECT_DIR$/app/Item.php" />
+        <option value="$PROJECT_DIR$/database/seeds/ItemSeeder.php" />
+        <option value="$PROJECT_DIR$/database/factories/ItemFactory.php" />
+        <option value="$PROJECT_DIR$/resources/js/config.js" />
+        <option value="$PROJECT_DIR$/resources/js/item.js" />
+        <option value="$PROJECT_DIR$/resources/js/common.js" />
+        <option value="/var/www/html/maozoon/assets/js/config.js" />
+        <option value="/var/www/html/maozoon/.env" />
+        <option value="/var/www/html/maozoon/src/Views/layout/scripts.html.twig" />
+        <option value="$PROJECT_DIR$/resources/views/layouts/app.blade.php" />
+        <option value="$PROJECT_DIR$/database/factories/CustomerFactory.php" />
+        <option value="$PROJECT_DIR$/database/seeds/CustomerSeeder.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2020_09_02_003746_create_carts_table.php" />
+        <option value="/var/www/html/maozoon/assets/js/common.js" />
+        <option value="$PROJECT_DIR$/public/js/item.js" />
+        <option value="$PROJECT_DIR$/resources/views/items.blade.php" />
+        <option value="$PROJECT_DIR$/public/js/cart.js" />
+        <option value="$PROJECT_DIR$/resources/views/cart.blade.php" />
+        <option value="$PROJECT_DIR$/public/js/common.js" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/ItemController.php" />
+        <option value="$PROJECT_DIR$/app/Cart.php" />
+        <option value="$PROJECT_DIR$/app/Customer.php" />
+        <option value="$PROJECT_DIR$/routes/web.php" />
+        <option value="$PROJECT_DIR$/app/Order.php" />
+        <option value="$PROJECT_DIR$/resources/views/payment.blade.php" />
+        <option value="$PROJECT_DIR$/public/js/payment.js" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Controller.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/OrderController.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/CartController.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/voku/portable-ascii" />
+      <path value="$PROJECT_DIR$/vendor/facade/ignition-contracts" />
+      <path value="$PROJECT_DIR$/vendor/facade/flare-client-php" />
+      <path value="$PROJECT_DIR$/vendor/facade/ignition" />
+      <path value="$PROJECT_DIR$/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/vendor/league/mime-type-detection" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/collection" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/vendor/scrivo/highlight.php" />
+      <path value="$PROJECT_DIR$/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php70" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/vendor/fruitcake/laravel-cors" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/asm89/stack-cors" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/vendor/league/commonmark" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/brick/math" />
+      <path value="$PROJECT_DIR$/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/vendor/nunomaduro/collision" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="75" />
+    <option name="y" value="34" />
+    <option name="width" value="1297" />
+    <option name="height" value="660" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="safa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="safa" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="safa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="safa" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="safa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="safa" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Http" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="safa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="safa" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Http" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Controllers" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="safa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="maozoon" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="safa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="maozoon" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="safa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="maozoon" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Views" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="/var/www/html/maozoon" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/js" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/js" />
+      <recent name="$PROJECT_DIR$/public" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9b62716a-341b-4efa-8707-b40bd71f01f4" name="Default" comment="" />
+      <created>1599006297009</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599006297009</updated>
+      <workItem from="1599006304882" duration="36521000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="36521000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="75" y="34" width="1303" height="780" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32792208" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24940239" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24940239" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/database/migrations/2014_10_12_100000_create_password_resets_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2019_08_19_000000_create_failed_jobs_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2020_09_02_003714_create_orders_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="27" column="39" lean-forward="true" selection-start-line="23" selection-start-column="12" selection-end-line="27" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="13" column="16" lean-forward="false" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2020_09_02_003523_create_customers_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="20" column="40" lean-forward="false" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2020_09_02_003728_create_items_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/app.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///var/www/html/maozoon/src/Controllers/Services/SrvCaptain.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="20" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="1621" column="30" lean-forward="false" selection-start-line="1621" selection-start-column="23" selection-end-line="1621" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///var/www/html/maozoon/database/seeds/CreateThumbImages.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/factories/UserFactory.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="26" column="6" lean-forward="false" selection-start-line="20" selection-start-column="4" selection-end-line="26" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///var/www/html/maozoon/src/Views/adminCart.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="330" column="14" lean-forward="false" selection-start-line="330" selection-start-column="8" selection-end-line="330" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///var/www/html/maozoon/assets/js/adminCart.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="113" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///var/www/html/maozoon/src/Views/layout/master.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-641">
+          <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///var/www/html/maozoon/src/Views/login.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2731">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///var/www/html/maozoon/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="16" lean-forward="false" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///var/www/html/maozoon/assets/js/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="42" lean-forward="false" selection-start-line="1" selection-start-column="42" selection-end-line="1" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/jquery.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///var/www/html/maozoon/src/Views/layout/scripts.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-339">
+          <caret line="1" column="73" lean-forward="false" selection-start-line="1" selection-start-column="60" selection-end-line="1" selection-end-column="73" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/layouts/app.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="70" column="0" lean-forward="false" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="51" />
+          <folding>
+            <marker date="1599245074934" expanded="true" signature="30:73" ph="..." />
+            <marker date="1599245074934" expanded="true" signature="249:263" ph="..." />
+            <marker date="1599245074934" expanded="true" signature="282:313" ph="..." />
+            <marker date="1599245074934" expanded="true" signature="370:390" ph="..." />
+            <marker date="1599245074934" expanded="true" signature="615:637" ph="..." />
+            <marker date="1599245074934" expanded="true" signature="871:881" ph="..." />
+            <marker date="1599245074934" expanded="true" signature="904:935" ph="..." />
+            <marker date="1599245074934" expanded="true" signature="1148:1173" ph="..." />
+            <marker date="1599245074934" expanded="true" signature="1708:1717" ph="..." />
+            <marker date="1599245074934" expanded="true" signature="1758:1785" ph="..." />
+            <marker date="1599245074934" expanded="true" signature="2023:2046" ph="..." />
+            <marker date="1599245074934" expanded="true" signature="2075:2098" ph="..." />
+            <marker date="1599245074934" expanded="true" signature="2120:2129" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/factories/ItemFactory.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="39" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="12" selection-end-column="39" />
+          <folding>
+            <element signature="e#67#81#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="19" lean-forward="false" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/seeds/ItemSeeder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="8" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/factories/CustomerFactory.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="25" lean-forward="false" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="25" />
+          <folding>
+            <element signature="e#67#81#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/seeds/CustomerSeeder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="69" lean-forward="false" selection-start-line="13" selection-start-column="69" selection-end-line="13" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///var/www/html/maozoon/assets/js/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="385" column="0" lean-forward="false" selection-start-line="385" selection-start-column="0" selection-end-line="385" selection-end-column="0" />
+          <folding>
+            <element signature="e#173#309#0" expanded="false" />
+            <element signature="e#220#308#0" expanded="false" />
+            <element signature="e#324#499#0" expanded="false" />
+            <element signature="e#373#498#0" expanded="false" />
+            <element signature="e#404#494#0" expanded="false" />
+            <element signature="e#514#600#0" expanded="false" />
+            <element signature="e#558#599#0" expanded="false" />
+            <element signature="e#615#706#0" expanded="false" />
+            <element signature="e#652#705#0" expanded="false" />
+            <element signature="e#755#2982#0" expanded="false" />
+            <element signature="e#768#2979#0" expanded="false" />
+            <element signature="e#813#881#0" expanded="false" />
+            <element signature="e#931#2973#0" expanded="false" />
+            <element signature="e#1014#1373#0" expanded="false" />
+            <element signature="e#1069#1165#0" expanded="false" />
+            <element signature="e#1171#1327#0" expanded="false" />
+            <element signature="e#1221#1309#0" expanded="false" />
+            <element signature="e#1414#2963#0" expanded="false" />
+            <element signature="e#1656#2892#0" expanded="false" />
+            <element signature="e#1965#2874#0" expanded="false" />
+            <element signature="e#2374#2524#0" expanded="false" />
+            <element signature="e#3018#3772#0" expanded="false" />
+            <element signature="e#3031#3769#0" expanded="false" />
+            <element signature="e#3048#3081#0" expanded="false" />
+            <element signature="e#3123#3763#0" expanded="false" />
+            <element signature="e#3170#3751#0" expanded="false" />
+            <element signature="e#3444#3687#0" expanded="false" />
+            <element signature="e#3812#3945#0" expanded="false" />
+            <element signature="e#3841#3943#0" expanded="false" />
+            <element signature="e#3983#4109#0" expanded="false" />
+            <element signature="e#4011#4106#0" expanded="false" />
+            <element signature="e#4051#4100#0" expanded="false" />
+            <element signature="e#4150#4340#0" expanded="false" />
+            <element signature="e#4187#4310#0" expanded="false" />
+            <element signature="e#4386#4491#0" expanded="false" />
+            <element signature="e#4415#4488#0" expanded="false" />
+            <element signature="e#4538#5293#0" expanded="false" />
+            <element signature="e#4567#5291#0" expanded="false" />
+            <element signature="e#4630#4664#0" expanded="false" />
+            <element signature="e#4689#4725#0" expanded="false" />
+            <element signature="e#4841#5093#0" expanded="false" />
+            <element signature="e#4914#4969#0" expanded="false" />
+            <element signature="e#5337#7031#0" expanded="false" />
+            <element signature="e#5372#7029#0" expanded="false" />
+            <element signature="e#5426#5460#0" expanded="false" />
+            <element signature="e#5691#7000#0" expanded="false" />
+            <element signature="e#5753#6988#0" expanded="false" />
+            <element signature="e#5907#6974#0" expanded="false" />
+            <element signature="e#6247#6742#0" expanded="false" />
+            <element signature="e#6484#6720#0" expanded="false" />
+            <element signature="e#6875#6956#0" expanded="false" />
+            <element signature="e#7075#7510#0" expanded="false" />
+            <element signature="e#7102#7146#0" expanded="false" />
+            <element signature="e#7179#7507#0" expanded="false" />
+            <element signature="e#7549#8636#0" expanded="false" />
+            <element signature="e#7586#8634#0" expanded="false" />
+            <element signature="e#7651#7686#0" expanded="false" />
+            <element signature="e#7692#8628#0" expanded="false" />
+            <element signature="e#7756#7997#0" expanded="false" />
+            <element signature="e#7830#7907#0" expanded="false" />
+            <element signature="e#7913#7983#0" expanded="false" />
+            <element signature="e#8196#8566#0" expanded="false" />
+            <element signature="e#8441#8552#0" expanded="false" />
+            <element signature="e#8679#8857#0" expanded="false" />
+            <element signature="e#8716#8855#0" expanded="false" />
+            <element signature="e#8896#8976#0" expanded="false" />
+            <element signature="e#8925#8973#0" expanded="false" />
+            <element signature="e#9021#9316#0" expanded="false" />
+            <element signature="e#9052#9313#0" expanded="false" />
+            <element signature="e#9160#9193#0" expanded="false" />
+            <element signature="e#9249#9287#0" expanded="false" />
+            <element signature="e#9393#9463#0" expanded="false" />
+            <element signature="n#!!block;n#Confirmation#0" expanded="false" />
+            <element signature="e#9512#9767#0" expanded="false" />
+            <element signature="n#!!block;n#AlertInfo#0" expanded="false" />
+            <element signature="e#9841#9875#0" expanded="false" />
+            <element signature="n#!!block;n#AlertSuccess#0" expanded="false" />
+            <element signature="e#10015#10052#0" expanded="false" />
+            <element signature="n#!!block;n#AlertError#0" expanded="false" />
+            <element signature="n#!!block;n#AlertMessage#0" expanded="false" />
+            <element signature="e#10368#10402#0" expanded="false" />
+            <element signature="e#10425#10871#0" expanded="false" />
+            <element signature="e#10900#10975#0" expanded="false" />
+            <element signature="e#11001#11073#0" expanded="false" />
+            <element signature="e#11079#11128#0" expanded="false" />
+            <element signature="n#!!block;n#isAbsoluteUrl#0" expanded="false" />
+            <element signature="e#11284#11394#0" expanded="false" />
+            <element signature="e#11349#11388#0" expanded="false" />
+            <element signature="n#!!block;n#getDistinctData#0" expanded="false" />
+            <element signature="e#11524#11774#0" expanded="false" />
+            <element signature="e#11605#11702#0" expanded="false" />
+            <element signature="e#11643#11692#0" expanded="false" />
+            <element signature="e#11727#11768#0" expanded="false" />
+            <element signature="e#11943#12016#0" expanded="false" />
+            <element signature="e#11975#12010#0" expanded="false" />
+            <element signature="n#!!block;n#removeItemById#0" expanded="false" />
+            <element signature="e#12134#12204#0" expanded="false" />
+            <element signature="e#12160#12198#0" expanded="false" />
+            <element signature="n#!!block;n#validateFileSize#0" expanded="false" />
+            <element signature="e#12291#12319#0" expanded="false" />
+            <element signature="e#12349#12378#0" expanded="false" />
+            <element signature="e#12427#13429#0" expanded="false" />
+            <element signature="e#12509#13428#0" expanded="false" />
+            <element signature="e#12591#13406#0" expanded="false" />
+            <element signature="e#12682#12726#0" expanded="false" />
+            <element signature="e#12986#13089#0" expanded="false" />
+            <element signature="e#13170#13274#0" expanded="false" />
+            <element signature="e#13292#13398#0" expanded="false" />
+            <element signature="e#13467#14636#0" expanded="false" />
+            <element signature="e#13549#14635#0" expanded="false" />
+            <element signature="e#13661#14612#0" expanded="false" />
+            <element signature="e#13752#13796#0" expanded="false" />
+            <element signature="e#14110#14170#0" expanded="false" />
+            <element signature="e#14192#14295#0" expanded="false" />
+            <element signature="e#14376#14480#0" expanded="false" />
+            <element signature="e#14498#14604#0" expanded="false" />
+            <element signature="e#14678#15804#0" expanded="false" />
+            <element signature="e#14760#15803#0" expanded="false" />
+            <element signature="e#14870#15780#0" expanded="false" />
+            <element signature="e#14961#15005#0" expanded="false" />
+            <element signature="e#15278#15338#0" expanded="false" />
+            <element signature="e#15360#15463#0" expanded="false" />
+            <element signature="e#15544#15648#0" expanded="false" />
+            <element signature="e#15666#15772#0" expanded="false" />
+            <element signature="e#15832#17745#0" expanded="false" />
+            <element signature="e#15859#17744#0" expanded="false" />
+            <element signature="e#15879#17721#0" expanded="false" />
+            <element signature="e#15915#16199#0" expanded="false" />
+            <element signature="e#16139#16187#0" expanded="false" />
+            <element signature="e#16232#16460#0" expanded="false" />
+            <element signature="e#16504#16813#0" expanded="false" />
+            <element signature="e#16843#17112#0" expanded="false" />
+            <element signature="e#17056#17100#0" expanded="false" />
+            <element signature="e#17143#17421#0" expanded="false" />
+            <element signature="e#17361#17409#0" expanded="false" />
+            <element signature="e#17453#17713#0" expanded="false" />
+            <element signature="e#17776#19234#0" expanded="false" />
+            <element signature="e#17803#19233#0" expanded="false" />
+            <element signature="e#17823#19210#0" expanded="false" />
+            <element signature="e#17871#18279#0" expanded="false" />
+            <element signature="e#18082#18138#0" expanded="false" />
+            <element signature="e#18161#18231#0" expanded="false" />
+            <element signature="e#18309#18589#0" expanded="false" />
+            <element signature="e#18529#18577#0" expanded="false" />
+            <element signature="e#18620#18903#0" expanded="false" />
+            <element signature="e#18843#18891#0" expanded="false" />
+            <element signature="e#18935#19202#0" expanded="false" />
+            <element signature="e#19269#20665#0" expanded="false" />
+            <element signature="e#19296#20664#0" expanded="false" />
+            <element signature="e#19316#20641#0" expanded="false" />
+            <element signature="e#19361#19690#0" expanded="false" />
+            <element signature="e#19581#19642#0" expanded="false" />
+            <element signature="e#19720#20008#0" expanded="false" />
+            <element signature="e#19944#19996#0" expanded="false" />
+            <element signature="e#20039#20330#0" expanded="false" />
+            <element signature="e#20266#20318#0" expanded="false" />
+            <element signature="e#20362#20633#0" expanded="false" />
+            <element signature="e#20708#21481#0" expanded="false" />
+            <element signature="e#20735#21480#0" expanded="false" />
+            <element signature="e#20755#21457#0" expanded="false" />
+            <element signature="e#20785#21069#0" expanded="false" />
+            <element signature="e#21017#21057#0" expanded="false" />
+            <element signature="e#21113#21449#0" expanded="false" />
+            <element signature="e#21512#25889#0" expanded="false" />
+            <element signature="e#21539#25888#0" expanded="false" />
+            <element signature="e#21559#25865#0" expanded="false" />
+            <element signature="e#21587#21817#0" expanded="false" />
+            <element signature="e#21857#22135#0" expanded="false" />
+            <element signature="e#22168#22444#0" expanded="false" />
+            <element signature="e#22391#22432#0" expanded="false" />
+            <element signature="e#22478#22755#0" expanded="false" />
+            <element signature="e#22702#22743#0" expanded="false" />
+            <element signature="e#22789#23066#0" expanded="false" />
+            <element signature="e#23013#23054#0" expanded="false" />
+            <element signature="e#23099#23375#0" expanded="false" />
+            <element signature="e#23322#23363#0" expanded="false" />
+            <element signature="e#23410#23689#0" expanded="false" />
+            <element signature="e#23636#23677#0" expanded="false" />
+            <element signature="e#23724#24004#0" expanded="false" />
+            <element signature="e#23951#23992#0" expanded="false" />
+            <element signature="e#24039#24319#0" expanded="false" />
+            <element signature="e#24266#24307#0" expanded="false" />
+            <element signature="e#24353#24632#0" expanded="false" />
+            <element signature="e#24579#24620#0" expanded="false" />
+            <element signature="e#24668#24938#0" expanded="false" />
+            <element signature="e#24974#25245#0" expanded="false" />
+            <element signature="e#25281#25552#0" expanded="false" />
+            <element signature="e#25587#25857#0" expanded="false" />
+            <element signature="e#25919#27644#0" expanded="false" />
+            <element signature="e#25946#27643#0" expanded="false" />
+            <element signature="e#25966#27620#0" expanded="false" />
+            <element signature="e#26018#26700#0" expanded="false" />
+            <element signature="e#26230#26296#0" expanded="false" />
+            <element signature="e#26334#26414#0" expanded="false" />
+            <element signature="e#26456#26537#0" expanded="false" />
+            <element signature="e#26576#26652#0" expanded="false" />
+            <element signature="e#26730#27005#0" expanded="false" />
+            <element signature="e#26949#26993#0" expanded="false" />
+            <element signature="e#27036#27314#0" expanded="false" />
+            <element signature="e#27258#27302#0" expanded="false" />
+            <element signature="e#27346#27612#0" expanded="false" />
+            <element signature="e#27671#30113#0" expanded="false" />
+            <element signature="e#27698#30112#0" expanded="false" />
+            <element signature="e#27718#30089#0" expanded="false" />
+            <element signature="e#27770#29361#0" expanded="false" />
+            <element signature="e#27986#28066#0" expanded="false" />
+            <element signature="e#28101#28175#0" expanded="false" />
+            <element signature="e#28214#28296#0" expanded="false" />
+            <element signature="e#28337#28423#0" expanded="false" />
+            <element signature="e#28462#28544#0" expanded="false" />
+            <element signature="e#28580#28656#0" expanded="false" />
+            <element signature="e#28689#28759#0" expanded="false" />
+            <element signature="e#28793#28865#0" expanded="false" />
+            <element signature="e#28899#28968#0" expanded="false" />
+            <element signature="e#29002#29074#0" expanded="false" />
+            <element signature="e#29117#29198#0" expanded="false" />
+            <element signature="e#29237#29313#0" expanded="false" />
+            <element signature="e#29391#29652#0" expanded="false" />
+            <element signature="e#29704#30080#0" expanded="false" />
+            <element signature="e#29918#29988#0" expanded="false" />
+            <element signature="e#30027#30068#0" expanded="false" />
+            <element signature="e#30152#32400#0" expanded="false" />
+            <element signature="e#30179#32399#0" expanded="false" />
+            <element signature="e#30199#32376#0" expanded="false" />
+            <element signature="e#30251#31735#0" expanded="false" />
+            <element signature="e#30476#30550#0" expanded="false" />
+            <element signature="e#30589#30671#0" expanded="false" />
+            <element signature="e#30712#30798#0" expanded="false" />
+            <element signature="e#30837#30919#0" expanded="false" />
+            <element signature="e#30955#31031#0" expanded="false" />
+            <element signature="e#31064#31134#0" expanded="false" />
+            <element signature="e#31168#31240#0" expanded="false" />
+            <element signature="e#31273#31342#0" expanded="false" />
+            <element signature="e#31376#31448#0" expanded="false" />
+            <element signature="e#31491#31572#0" expanded="false" />
+            <element signature="e#31611#31687#0" expanded="false" />
+            <element signature="e#31765#32038#0" expanded="false" />
+            <element signature="e#32077#32367#0" expanded="false" />
+            <element signature="e#32314#32355#0" expanded="false" />
+            <element signature="e#32429#32763#0" expanded="false" />
+            <element signature="e#32456#32762#0" expanded="false" />
+            <element signature="e#32476#32739#0" expanded="false" />
+            <element signature="e#32504#32732#0" expanded="false" />
+            <element signature="e#32794#34822#0" expanded="false" />
+            <element signature="e#32821#34821#0" expanded="false" />
+            <element signature="e#32841#34798#0" expanded="false" />
+            <element signature="e#32871#33134#0" expanded="false" />
+            <element signature="e#33164#33535#0" expanded="false" />
+            <element signature="e#33372#33467#0" expanded="false" />
+            <element signature="e#33574#33997#0" expanded="false" />
+            <element signature="e#33822#33929#0" expanded="false" />
+            <element signature="e#34054#34391#0" expanded="false" />
+            <element signature="e#34451#34791#0" expanded="false" />
+            <element signature="e#34857#35202#0" expanded="false" />
+            <element signature="e#34884#35201#0" expanded="false" />
+            <element signature="e#34904#35178#0" expanded="false" />
+            <element signature="e#34935#35172#0" expanded="false" />
+            <element signature="e#35232#35681#0" expanded="false" />
+            <element signature="e#35259#35680#0" expanded="false" />
+            <element signature="e#35279#35657#0" expanded="false" />
+            <element signature="e#35316#35651#0" expanded="false" />
+            <element signature="e#35531#35603#0" expanded="false" />
+            <element signature="e#35721#36427#0" expanded="false" />
+            <element signature="e#35748#36426#0" expanded="false" />
+            <element signature="e#35768#36403#0" expanded="false" />
+            <element signature="e#35798#36088#0" expanded="false" />
+            <element signature="e#36027#36076#0" expanded="false" />
+            <element signature="e#36120#36396#0" expanded="false" />
+            <element signature="e#36470#37515#0" expanded="false" />
+            <element signature="e#36497#37514#0" expanded="false" />
+            <element signature="e#36517#37491#0" expanded="false" />
+            <element signature="e#36547#36843#0" expanded="false" />
+            <element signature="e#36779#36831#0" expanded="false" />
+            <element signature="e#36874#37173#0" expanded="false" />
+            <element signature="e#37109#37161#0" expanded="false" />
+            <element signature="e#37205#37484#0" expanded="false" />
+            <element signature="e#37553#40125#0" expanded="false" />
+            <element signature="e#37580#40124#0" expanded="false" />
+            <element signature="e#37600#40101#0" expanded="false" />
+            <element signature="e#37641#38321#0" expanded="false" />
+            <element signature="e#37865#37931#0" expanded="false" />
+            <element signature="e#37969#38049#0" expanded="false" />
+            <element signature="e#38085#38161#0" expanded="false" />
+            <element signature="e#38197#38273#0" expanded="false" />
+            <element signature="e#38358#39152#0" expanded="false" />
+            <element signature="e#38578#38644#0" expanded="false" />
+            <element signature="e#38682#38762#0" expanded="false" />
+            <element signature="e#38800#38880#0" expanded="false" />
+            <element signature="e#38916#38992#0" expanded="false" />
+            <element signature="e#39028#39104#0" expanded="false" />
+            <element signature="e#39182#39468#0" expanded="false" />
+            <element signature="e#39409#39456#0" expanded="false" />
+            <element signature="e#39499#39788#0" expanded="false" />
+            <element signature="e#39729#39776#0" expanded="false" />
+            <element signature="e#39820#40094#0" expanded="false" />
+            <element signature="e#40167#42641#0" expanded="false" />
+            <element signature="e#40194#42640#0" expanded="false" />
+            <element signature="e#40214#42617#0" expanded="false" />
+            <element signature="e#40255#40939#0" expanded="false" />
+            <element signature="e#40483#40549#0" expanded="false" />
+            <element signature="e#40587#40667#0" expanded="false" />
+            <element signature="e#40703#40779#0" expanded="false" />
+            <element signature="e#40815#40891#0" expanded="false" />
+            <element signature="e#40976#41656#0" expanded="false" />
+            <element signature="e#41200#41266#0" expanded="false" />
+            <element signature="e#41304#41384#0" expanded="false" />
+            <element signature="e#41420#41496#0" expanded="false" />
+            <element signature="e#41532#41608#0" expanded="false" />
+            <element signature="e#41686#41976#0" expanded="false" />
+            <element signature="e#41917#41964#0" expanded="false" />
+            <element signature="e#42007#42300#0" expanded="false" />
+            <element signature="e#42241#42288#0" expanded="false" />
+            <element signature="e#42332#42610#0" expanded="false" />
+            <element signature="e#42672#43038#0" expanded="false" />
+            <element signature="e#42699#43037#0" expanded="false" />
+            <element signature="e#42719#43014#0" expanded="false" />
+            <element signature="e#42756#43007#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2020_09_02_003746_create_carts_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="19" column="28" lean-forward="false" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///var/www/html/maozoon/src/Models/AuxUserNotification.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="14" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/items.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="30" column="131" lean-forward="true" selection-start-line="29" selection-start-column="40" selection-end-line="30" selection-end-column="131" />
+          <folding>
+            <marker date="1599286509717" expanded="true" signature="9:22" ph="..." />
+            <marker date="1599286509717" expanded="true" signature="34:41" ph="..." />
+            <marker date="1599286509717" expanded="true" signature="85:94" ph="..." />
+            <marker date="1599286509717" expanded="true" signature="614:635" ph="..." />
+            <marker date="1599286509717" expanded="true" signature="1377:1387" ph="..." />
+            <marker date="1599286509717" expanded="true" signature="1496:1508" ph="..." />
+            <marker date="1599286509717" expanded="true" signature="1610:1622" ph="..." />
+            <marker date="1599286509717" expanded="true" signature="1737:1745" ph="..." />
+            <marker date="1599286509717" expanded="true" signature="2488:2497" ph="..." />
+            <marker date="1599286509717" expanded="true" signature="2518:2539" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/item.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="523">
+          <caret line="47" column="5" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="47" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/cart.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="21" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="61" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/cart.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="35" column="122" lean-forward="false" selection-start-line="35" selection-start-column="32" selection-end-line="35" selection-end-column="122" />
+          <folding>
+            <marker date="1599288672164" expanded="true" signature="9:22" ph="..." />
+            <marker date="1599288672164" expanded="true" signature="34:41" ph="..." />
+            <marker date="1599288672164" expanded="true" signature="80:89" ph="..." />
+            <marker date="1599288672164" expanded="true" signature="1942:1951" ph="..." />
+            <marker date="1599288672164" expanded="true" signature="1972:1993" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///var/www/html/maozoon/src/Views/adminCategories.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="41" column="75" lean-forward="false" selection-start-line="41" selection-start-column="59" selection-end-line="41" selection-end-column="75" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="501" column="43" lean-forward="false" selection-start-line="501" selection-start-column="37" selection-end-line="501" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Cart.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="19" column="40" lean-forward="false" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="40" />
+          <folding>
+            <element signature="e#23#62#0#PHP" expanded="true" />
+            <marker date="1599292820623" expanded="true" signature="405:617" ph="SELECT SUM(`... carts" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Customer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="451">
+          <caret line="42" column="11" lean-forward="false" selection-start-line="42" selection-start-column="7" selection-end-line="42" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/payment.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="50" column="38" lean-forward="false" selection-start-line="50" selection-start-column="38" selection-end-line="50" selection-end-column="38" />
+          <folding>
+            <marker date="1599294642676" expanded="true" signature="9:22" ph="..." />
+            <marker date="1599294642676" expanded="true" signature="34:41" ph="..." />
+            <marker date="1599294642676" expanded="true" signature="77:86" ph="..." />
+            <marker date="1599294642676" expanded="true" signature="1616:1625" ph="..." />
+            <marker date="1599294642676" expanded="true" signature="1646:1670" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Item.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="11" lean-forward="false" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="11" column="25" lean-forward="false" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/payment.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="23" column="36" lean-forward="false" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="164" column="41" lean-forward="false" selection-start-line="164" selection-start-column="38" selection-end-line="164" selection-end-column="41" />
+          <folding>
+            <element signature="e#206#2433#0" expanded="false" />
+            <element signature="e#3043#4130#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Order.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="27" column="43" lean-forward="false" selection-start-line="27" selection-start-column="39" selection-end-line="27" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/ItemController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="10" column="43" lean-forward="true" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/CustomerController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/OrderController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="11" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="14" selection-end-column="11" />
+          <folding>
+            <element signature="e#40#54#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/CartController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="35" column="21" lean-forward="false" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
+          <folding>
+            <element signature="e#40#53#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
